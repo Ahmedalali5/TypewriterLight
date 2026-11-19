@@ -56,3 +56,10 @@ Freeware. Provided "as-is", without warranty of any kind. The binaries may be re
 ## نبذة بالعربية
 
 أداة «الآلة الكاتبة» العائمة لويندوز: مسطرة ثابتة أسفل سطر الكتابة، مع ذراع ومؤشر وحزمة ضوء تتحرك مع مؤشر الكتابة أثناء الطباعة. تعمل في أي برنامج فيه حقل نص (Word، Notepad، المتصفحات وغيرها)، وتختفي عند مرور مؤشر الفأرة فوقها، مع أصوات ميكانيكية اختيارية وإعدادات مظهر وحركة كاملة. لا تحتاج تثبيت .NET ولا صلاحيات مدير، وتعمل على Windows 10/11 إصدار 64-bit.
+
+## Screenshots
+
+![Overlay over a document](docs/images/Screenshot1.png)
+
+![Settings window](docs/images/Screenshot2.png)
+
